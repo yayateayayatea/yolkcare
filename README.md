@@ -38,7 +38,7 @@ YorkCare is a mobile app that gives university students a real-time picture of h
 ### 2.3 Mentor Consultation 
 | Date | Mentor | Feedback Received | What Was Changed | 
 | :---: | :---: | :--- | :--- | 
-| 12th September 2026 | Big Penguin | we are penguin egg instead | eat more |
+| 12th September 2026 | Zach Khong | we are penguin egg instead | eat more |
 
 ## 3. Design & Prototype 
 __UI Prototype:__ [link_to_UI](https://canva.link/xjfs6m4h9synss4)
