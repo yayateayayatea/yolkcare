@@ -41,7 +41,7 @@ YorkCare is a mobile app that gives university students a real-time picture of h
 
 ### 2.2 Ideation Boards
 
-![Ideation Board](./pic/pic01.jpeg)
+![Ideation Board](./pic/pic01.png)
 
 ### 2.3 Mentor Consultation
 
