@@ -31,6 +31,7 @@ YorkCare is a mobile app that gives university students a real-time picture of h
 | Achievement Board | ✅ Keep — Reinforces progress visibility and motivates students to maintain healthy habits over time |
 | Virtual Farm (YorkCare Eggs) | ✅ Keep — Ties recovery and stress management to a rewarding, low-stakes mechanic that fits the team identity and keeps students returning daily |
 | AI Camera + Mic Input | ✅ Keep — Directly solves the friction problem that kills every manual tracker; core to what makes this app different |
+| Shell Frequency | ✅ Keep — Adapts background music to the user's current stress level and workload, creating an ambient emotional response without requiring any action from the user |
 | Statistics & History Panel | ✅ Keep — Lets students spot patterns in their load and stress over time, turning short-term data into long-term self-awareness |
 | Profile Panel | ✅ Keep — Grounds the experience in personal context and allows customisation of load categories to fit each student's lifestyle |
 | Daily Quote | ✅ Keep — Low-effort, high-warmth touchpoint that nudges students to open the app daily without adding cognitive load |
@@ -69,6 +70,7 @@ YorkCare isn't another mood journal or task manager — it's the only student-fo
 | Multi-Domain Load Calculator | Most apps track one dimension; YorkCare weighs mental, physical, time, social, and errand load together into a single capacity score |
 | Proactive Recovery Nudge | Instead of just showing data, the app tells you when to stop — suggesting rest, downtime, or a hangout before you hit the wall |
 | Load Balancer | Automatically groups and defers lower-priority tasks when capacity is high, so the app doesn't just warn you — it helps you respond |
+| Shell Frequency | Background music shifts in real time based on your current stress level and workload — calm lo-fi when you're balanced, gentle ambient when you're overloaded — so the app feels the pressure with you |
 | Egg & Farm Reward System | Recovery and stress management are tied to a playful virtual farm mechanic, making rest feel like a win rather than lost productivity |
 | Burnout-First Design | Every feature is built around one goal — catching overload early — rather than maximising productivity like most competing tools |
 
@@ -108,4 +110,4 @@ The app is distributed as a direct APK install onto a physical Android device ru
 | Phase 2 | AI camera and mic integration via Gemini API |
 | Phase 3 | Load calculator algorithm and category scoring |
 | Phase 4 | Virtual farm mechanic and achievement board |
-| Phase 5 | Polish — daily quotes, recovery nudges, profile panel |
+| Phase 5 | Polish — daily quotes, recovery nudges, Shell Frequency, profile panel |
