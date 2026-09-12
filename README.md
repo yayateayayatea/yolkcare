@@ -1,4 +1,4 @@
-# YorkCare by Half Boiled Egg
+# YolkCare by Half Boiled Egg
 
 __Team members:__ Gordon Liew Yew Yang, Marilyn Emah Sim Mei Lim
 
@@ -18,7 +18,7 @@ University students burn out not from one thing, but from everything piling up a
 
 ### Our Solution
 
-YorkCare is a mobile app that gives university students a real-time picture of how much they're carrying across mental, physical, time, social, and errand load — before burnout hits. Instead of manual logging, students report their day through AI-powered camera and mic input, keeping the friction near zero. Algorithms then calculate total load across categories and surface smart suggestions to rebalance, defer, or recover.
+YolkCare is a mobile app that gives university students a real-time picture of how much they're carrying across mental, physical, time, social, and errand load — before burnout hits. Instead of manual logging, students report their day through AI-powered camera and mic input, keeping the friction near zero. Algorithms then calculate total load across categories and surface smart suggestions to rebalance, defer, or recover.
 
 ---
 
@@ -29,7 +29,7 @@ YorkCare is a mobile app that gives university students a real-time picture of h
 | Idea | Keep / Drop |
 | :-- | :-- |
 | Achievement Board | ✅ Keep — Reinforces progress visibility and motivates students to maintain healthy habits over time |
-| Virtual Farm (YorkCare Eggs) | ✅ Keep — Ties recovery and stress management to a rewarding, low-stakes mechanic that fits the team identity and keeps students returning daily |
+| Virtual Farm (YolkCare Eggs) | ✅ Keep — Ties recovery and stress management to a rewarding, low-stakes mechanic that fits the team identity and keeps students returning daily |
 | AI Camera + Mic Input | ✅ Keep — Directly solves the friction problem that kills every manual tracker; core to what makes this app different |
 | Shell Frequency | ✅ Keep — Adapts background music to the user's current stress level and workload, creating an ambient emotional response without requiring any action from the user |
 | Statistics & History Panel | ✅ Keep — Lets students spot patterns in their load and stress over time, turning short-term data into long-term self-awareness |
@@ -62,12 +62,12 @@ __Backup Link:__ [link_to_backup]()
 
 ## 4. What Makes It Different
 
-YorkCare isn't another mood journal or task manager — it's the only student-focused tool that unifies load across five life domains and acts on it before burnout hits. Here's what sets it apart:
+YolkCare isn't another mood journal or task manager — it's the only student-focused tool that unifies load across five life domains and acts on it before burnout hits. Here's what sets it apart:
 
 | Feature | The Twist |
 | :--- | :--- |
 | AI Camera + Mic Logging | No other wellness app lets you report your day by just talking or pointing your camera — eliminating the friction that kills manual tracking habits |
-| Multi-Domain Load Calculator | Most apps track one dimension; YorkCare weighs mental, physical, time, social, and errand load together into a single capacity score |
+| Multi-Domain Load Calculator | Most apps track one dimension; YolkCare weighs mental, physical, time, social, and errand load together into a single capacity score |
 | Proactive Recovery Nudge | Instead of just showing data, the app tells you when to stop — suggesting rest, downtime, or a hangout before you hit the wall |
 | Load Balancer | Automatically groups and defers lower-priority tasks when capacity is high, so the app doesn't just warn you — it helps you respond |
 | Shell Frequency | Background music shifts in real time based on your current stress level and workload — calm lo-fi when you're balanced, gentle ambient when you're overloaded — so the app feels the pressure with you |
@@ -80,7 +80,7 @@ YorkCare isn't another mood journal or task manager — it's the only student-fo
 
 ### Tech Stack
 
-YorkCare is a self-contained Android app with no multi-user sync or server-side logic required, so a lightweight local architecture is the right fit for this scope.
+YolkCare is a self-contained Android app with no multi-user sync or server-side logic required, so a lightweight local architecture is the right fit for this scope.
 
 | Layer | Technology | Why | Constraint |
 | :--- | :--- | :--- | :--- |
