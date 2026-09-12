@@ -6,7 +6,7 @@ __Problem Statement:__ Stress & Workload Manager
 
 __Video Presentation:__ [link_to_video]()
 
-__Presentation Slides:__ [link_to_slide]()
+__Presentation Slides:__ [link_to_slide](https://canva.link/pxswkba4l6xdmlm)
 
 ---
 
@@ -56,7 +56,7 @@ YolkCare is a mobile app that gives university students a real-time picture of h
 
 __UI Prototype:__ [View on Canva](https://canva.link/xjfs6m4h9synss4)
 
-__Backup Link:__ [link_to_backup]()
+__Backup Link:__ [link_to_backup](https://drive.google.com/file/d/1y-6P84RnBb1Dgqm8ZLu-LvBEnn6eXVbE/view?usp=sharing)
 
 ---
 
