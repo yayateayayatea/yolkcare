@@ -48,6 +48,9 @@ YolkCare started as a straightforward stress logger — a form-based input where
 
 ![Ideation Board](./pic/pic01.png)
 
+![Home Page](./pic/HomePage(1).png)
+![Home Page](./pic/HomePage(2).png)
+
 ### 2.4 Mentor Consultation
 
 | Date | Mentor | Feedback Received | What Was Changed |
