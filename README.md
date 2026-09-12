@@ -46,8 +46,33 @@ YolkCare started as a straightforward stress logger — a form-based input where
 
 ### 2.3 Ideation Boards
 
-![Ideation Board](./pic/pic01.png)
+#### 2.3.1 Exploring the Causes of Student Burnout
+<p align="center">
+  <img src="./pic/WhyStudentBurnOut.jpeg" alt="Initial brainstorming on causes of student burnout" width="600">
+</p>
+We began by brainstorming the different pressures students face in everyday life. These included assignments, financial difficulties, relationship and family problems, excessive club commitments, lack of exercise, and uncomfortable living conditions. This helped us recognise that student stress comes from several overlapping areas of life, rather than academic workload alone.
 
+#### 2.3.2 Exploring Ways to Manage Stress
+<p align="center">
+  <img src="./pic/HowToManageStress.jpeg" alt="Initial brainstorming on how to manage stress" width="600">
+</p>
+Next, we explored possible ways to help students manage these pressures, including sufficient sleep, better time management, music, enjoyable activities, and healthy eating and hydration. This led us towards a concept that combines workload management with recovery support, helping students organise their responsibilities while making time for their wellbeing.
+
+#### 2.3.3 Developing the Initial App Concept
+<p align="center">
+  <img src="./pic/idea1.jpeg" alt="First idea on app prototype" width="600">
+</p>
+Our first app sketch brought these ideas together through a stress-level gauge, task entry and tracking, and suggested stress-relief activities. Students could add tasks, view their task list, and select individual entries to edit or delete them. We also explored a health-tracking section containing step count, blood pressure, and sleep quality.
+
+This initial concept focused mainly on displaying stress and organising tasks. It provided a starting point for considering how the app could make daily tracking easier and encourage students to respond when their workload became overwhelming.
+
+#### 2.3.4 Refinement and Final Ideation
+<p align="center">
+  <img src="./pic/pic01.png" alt="Final Ideation - Ideation Board" width="600">
+</p>
+The concept developed into YolkCare, which combines workload awareness, easier daily input, recovery support, and encouragement through a virtual egg companion. The initial stress gauge evolved into a broader approach that considers mental, physical, time, social, and errands-related load. Camera and microphone input were introduced to reduce manual logging effort, while recovery nudges and load balancing extended the concept beyond displaying stress to suggesting actions students could take.
+The early exploration of music became Shell Frequency, where music adapts to students’ stress levels. The final concept also uses virtual eggs, achievements, and daily quotes to encourage healthy habits and recognise personal progress.
+As shown in the final ideation board, directions such as social leaderboards, calorie and fitness tracking, in-app messaging, and paid consultations were dropped to keep the concept focused and accessible. These choices prioritised student wellbeing, reduced unnecessary complexity, and avoided adding comparison pressure.
 
 
 ### 2.4 Mentor Consultation
