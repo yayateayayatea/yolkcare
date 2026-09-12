@@ -49,42 +49,6 @@ YolkCare started as a straightforward stress logger — a form-based input where
 ![Ideation Board](./pic/pic01.png)
 
 
-#### 2.3.1 Home Page
-<p align="center">
-  <img src="./pic/HomePage(1).png" alt="Home Page 1" width="300">
-  <img src="./pic/HomePage(2).png" alt="Home Page 2" width="300">
-</p>
-
-Provides an overview of the student’s wellbeing through a virtual egg whose condition reflects their stress level. Students can tap the egg to access the Virtual Pet Centre or select the stress chart to view detailed statistics. The page also displays an editable daily quote and suggested recovery activities, such as taking a walk. The bottom navigation provides access to achievements, task entry, and the user profile.
-
-Scrolling down reveals a task list with category and time dropdowns for filtering tasks. The list initially displays the three latest entries, with further scrolling allowing students to view more. Selecting a task opens its details, making it easier to review recorded activities and understand what contributes to their workload.
-
-#### 2.3.2 Task Entry Page
-<p align="center">
-  <img src="./pic/TaskEntryPage.png" alt="Task Entry Page" width="300">
-</p>
-
-Opens a semicircular input menu with two options: AI-assisted camera and microphone logging, or manual entry. The camera and microphone option allows students to show or describe an activity for AI to interpret and record as a task or achievement. The manual option opens the entry form. The background is blurred while the menu is active, and tapping outside the semicircle closes it.
-
-#### 2.3.3 Entry Page
-<p align="center">
-  <img src="./pic/EntryPage.png" alt="EntryPage" width="300">
-</p>
-Provides a form for creating or editing a task or achievement, with tabs to switch between the two entry types. Students can enter a title, description, duration, category, and urgency, as well as attach an image. These details help capture the activity and its workload requirements. The button displays “Create” when adding a new entry and “Save” when updating an existing one.
-
-#### 2.3.4 Statistic Page
-<p align="center">
-  <img src="./pic/StatisticPage.png" alt="StatisticPage" width="300">
-</p>
-
-Helps students review their stress and activity patterns through a trend chart, current stress status, and stress-level indicator. It summarises average, highest, and lowest stress levels, along with stressful episodes and calm periods. A task history lists recorded activities, while a doughnut chart shows their distribution across categories. Students can access more task history and enlarge the category chart for a closer look.
-
-#### 2.3.5 Achievement Page
-<p align="center">
-  <img src="./pic/AchievementPage.png" alt="AchievementPage" width="300">
-</p>
-
-Displays the student’s virtual pet and an XP progress bar showing their progress towards unlocking more eggs. Achievement cards highlight healthy habits and milestones, such as exercising regularly, staying hydrated, and sleeping earlier. The page also includes AI-generated load-balancing suggestions to encourage recovery. Completing achievements earns XP, helping students stay motivated to maintain healthy routines and manage stress.
 
 ### 2.4 Mentor Consultation
 
@@ -99,6 +63,44 @@ Displays the student’s virtual pet and an XP progress bar showing their progre
 __UI Prototype:__ [View on Canva](https://canva.link/xjfs6m4h9synss4)
 
 __Backup Link:__ [link_to_backup](https://drive.google.com/file/d/1y-6P84RnBb1Dgqm8ZLu-LvBEnn6eXVbE/view?usp=sharing)
+
+
+#### 3.1 Home Page
+<p align="center">
+  <img src="./pic/HomePage(1).png" alt="Home Page 1" width="300">
+  <img src="./pic/HomePage(2).png" alt="Home Page 2" width="300">
+</p>
+
+Provides an overview of the student’s wellbeing through a virtual egg whose condition reflects their stress level. Students can tap the egg to access the Virtual Pet Centre or select the stress chart to view detailed statistics. The page also displays an editable daily quote and suggested recovery activities, such as taking a walk. The bottom navigation provides access to achievements, task entry, and the user profile.
+
+Scrolling down reveals a task list with category and time dropdowns for filtering tasks. The list initially displays the three latest entries, with further scrolling allowing students to view more. Selecting a task opens its details, making it easier to review recorded activities and understand what contributes to their workload.
+
+#### 3.2 Task Entry Page
+<p align="center">
+  <img src="./pic/TaskEntryPage.png" alt="Task Entry Page" width="300">
+</p>
+
+Opens a semicircular input menu with two options: AI-assisted camera and microphone logging, or manual entry. The camera and microphone option allows students to show or describe an activity for AI to interpret and record as a task or achievement. The manual option opens the entry form. The background is blurred while the menu is active, and tapping outside the semicircle closes it.
+
+#### 3.3 Entry Page
+<p align="center">
+  <img src="./pic/EntryPage.png" alt="EntryPage" width="300">
+</p>
+Provides a form for creating or editing a task or achievement, with tabs to switch between the two entry types. Students can enter a title, description, duration, category, and urgency, as well as attach an image. These details help capture the activity and its workload requirements. The button displays “Create” when adding a new entry and “Save” when updating an existing one.
+
+#### 3.4 Statistic Page
+<p align="center">
+  <img src="./pic/StatisticPage.png" alt="StatisticPage" width="300">
+</p>
+
+Helps students review their stress and activity patterns through a trend chart, current stress status, and stress-level indicator. It summarises average, highest, and lowest stress levels, along with stressful episodes and calm periods. A task history lists recorded activities, while a doughnut chart shows their distribution across categories. Students can access more task history and enlarge the category chart for a closer look.
+
+#### 3.5 Achievement Page
+<p align="center">
+  <img src="./pic/AchievementPage.png" alt="AchievementPage" width="300">
+</p>
+
+Displays the student’s virtual pet and an XP progress bar showing their progress towards unlocking more eggs. Achievement cards highlight healthy habits and milestones, such as exercising regularly, staying hydrated, and sleeping earlier. The page also includes AI-generated load-balancing suggestions to encourage recovery. Completing achievements earns XP, helping students stay motivated to maintain healthy routines and manage stress.
 
 ---
 
