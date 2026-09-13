@@ -81,7 +81,7 @@ As shown in the final ideation board, directions such as social leaderboards, ca
 
 | Date | Mentor | Feedback Received | What Was Changed |
 | :---: | :---: | :--- | :--- |
-| 12th September 2026 | Zach Khong | We are penguin egg instead | Eat more |
+| 12th September 2026 | Zach Khong | First-time users may feel lost when entering the app with no prior context — the layout and features are not immediately self-explanatory | Added a first-time user onboarding flow using pop-up tooltip bubbles that guide new users through the key screens and interactions on their first launch |
 
 ---
 
