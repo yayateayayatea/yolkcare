@@ -4,9 +4,11 @@ __Team members:__ Gordon Liew Yew Yang, Marilyn Emah Sim Mei Lim
 
 __Problem Statement:__ Beating the Burnout
 
-__Video Presentation:__ [link_to_video]()
+__Video Presentation:__ [link_to_video](https://youtu.be/rR24iQQK7_k)
 
 __Presentation Slides:__ [link_to_slide](https://canva.link/pxswkba4l6xdmlm)
+
+__Presentation Slide back up:__ [link_to_backup](https://drive.google.com/file/d/1r-IzW4J32GK8Su-ydcUZF3kAViIpfgrO/view?usp=drive_link)
 
 ---
 
@@ -87,7 +89,7 @@ As shown in the final ideation board, directions such as social leaderboards, ca
 
 __UI Prototype:__ [View on Canva](https://canva.link/xjfs6m4h9synss4)
 
-__Backup Link:__ [link_to_backup](https://drive.google.com/file/d/1y-6P84RnBb1Dgqm8ZLu-LvBEnn6eXVbE/view?usp=sharing)
+__Backup Link:__ [link_to_backup]([https://drive.google.com/file/d/1y-6P84RnBb1Dgqm8ZLu-LvBEnn6eXVbE/view?usp=sharing](https://drive.google.com/file/d/1oKK8NPPlr_AQHxCiJ2E5tJ0yloHSTkjE/view?usp=drive_link))
 
 
 #### 3.1 Home Page
@@ -175,14 +177,14 @@ The app is distributed as a direct APK install onto a physical Android device ru
 
 ### Build Plan & Scope
 
-The team consists of two members. The prototype phase runs 7–13 September, with submission on 13 September. Tasks are front-loaded to leave buffer time before the deadline.
+The team consists of two members. The building phase runs on 9th Sep to 14th Oct. Tasks are front-loaded to leave buffer time before the deadline.
 
 | Phase | Focus | Target Completion |
 | :--- | :--- | :---: |
-| Phase 1 | Core UI screens — home dashboard, load input, history panel | 9 Sep |
-| Phase 2 | AI camera and mic integration via Gemini API | 10 Sep |
-| Phase 3 | Load calculator algorithm and category scoring | 11 Sep |
-| Phase 4 | Virtual farm mechanic and achievement board | 12 Sep |
-| Phase 5 | Polish — daily quotes, recovery nudges, Shell Frequency, profile panel | 13 Sep |
+| Phase 1 | Core UI screens — home dashboard, load input, history panel | 21 Sep |
+| Phase 2 | AI camera and mic integration via Gemini API | 28 Sep |
+| Phase 3 | Load calculator algorithm and category scoring | 5 Oct |
+| Phase 4 | Virtual farm mechanic and achievement board | 12 Oct |
+| Phase 5 | Polish — daily quotes, recovery nudges, Shell Frequency, profile panel | 14 Oct |
 
 **Resource awareness:** The team is two people working within a one-week prototype window. All technologies chosen are either free (Room, Jetpack, MVVM) or on a free tier sufficient for prototype scale (Gemini API, Google Cloud STT). No cloud hosting cost is incurred as the app runs locally on-device. The primary constraint is time — API integration and the load algorithm are the highest-risk tasks and are scheduled earliest to allow recovery time if issues arise.
