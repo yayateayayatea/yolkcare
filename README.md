@@ -89,7 +89,7 @@ As shown in the final ideation board, directions such as social leaderboards, ca
 
 __UI Prototype:__ [View on Canva](https://canva.link/xjfs6m4h9synss4)
 
-__Backup Link:__ [link_to_backup]([https://drive.google.com/file/d/1y-6P84RnBb1Dgqm8ZLu-LvBEnn6eXVbE/view?usp=sharing](https://drive.google.com/file/d/1oKK8NPPlr_AQHxCiJ2E5tJ0yloHSTkjE/view?usp=drive_link))
+__Backup Link:__ [link_to_backup](https://drive.google.com/file/d/1oKK8NPPlr_AQHxCiJ2E5tJ0yloHSTkjE/view?usp=drive_link)
 
 
 #### 3.1 Home Page
