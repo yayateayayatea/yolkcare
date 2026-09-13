@@ -2,7 +2,7 @@
 
 __Team members:__ Gordon Liew Yew Yang, Marilyn Emah Sim Mei Lim
 
-__Problem Statement:__ Stress & Workload Manager
+__Problem Statement:__ Beating the Burnout
 
 __Video Presentation:__ [link_to_video]()
 
