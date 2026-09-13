@@ -165,7 +165,11 @@ YolkCare is a self-contained Android app with no multi-user sync or server-side 
 
 ### System Architecture
 
-The app follows the **MVVM (Model–View–ViewModel)** pattern throughout:
+The app follows the **MVVM (Model–View–ViewModel)** architectural pattern throughout, separating UI, business logic, and data into three distinct layers.
+
+<p align="center">
+  <img src="./pic/mvvm.png" alt="YolkCare MVVM Architecture Diagram" width="600">
+</p>
 
 - **View** — Jetpack Compose UI screens that observe state from the ViewModel
 - **ViewModel** — handles all business logic including load calculation, suggestion generation, and API calls
@@ -173,11 +177,11 @@ The app follows the **MVVM (Model–View–ViewModel)** pattern throughout:
 
 ### Deployment
 
-The app is distributed as a direct APK install onto a physical Android device running **API level 26 (Android 8.0) or above**, which covers the majority of mid-range devices in use today. No Play Store submission is required for prototype demonstration.
+For the prototype phase, the app is distributed as a direct APK install onto a physical Android device running API level 26 (Android 8.0) or above. For the deploy phase, the APK will be published as a GitHub Release, giving real users a stable public download link without requiring Play Store submission. Users will need to enable installation from unknown sources, which is a one-time device setting on Android.
 
 ### Build Plan & Scope
 
-The team consists of two members. The building phase runs on 9th Sep to 14th Oct. Tasks are front-loaded to leave buffer time before the deadline.
+The team consists of two members. The building phase runs 21 September to 14 October, with tasks front-loaded to leave buffer before the deadline. The scope is intentionally narrow — core load tracking and AI input are the priority; Shell Frequency and the virtual farm are secondary and will be cut if time runs short.
 
 | Phase | Focus | Target Completion |
 | :--- | :--- | :---: |
@@ -187,4 +191,4 @@ The team consists of two members. The building phase runs on 9th Sep to 14th Oct
 | Phase 4 | Virtual farm mechanic and achievement board | 12 Oct |
 | Phase 5 | Polish — daily quotes, recovery nudges, Shell Frequency, profile panel | 14 Oct |
 
-**Resource awareness:** The team is two people working within a rough one month prototype and building window. All technologies chosen are either free (Room, Jetpack, MVVM) or on a free tier sufficient for prototype scale (Gemini API, Google Cloud STT). No cloud hosting cost is incurred as the app runs locally on-device. The primary constraint is time — API integration and the load algorithm are the highest-risk tasks and are scheduled earliest to allow recovery time if issues arise.
+**Resource awareness:** The team is two people working across a five-week building window. All technologies chosen are either free (Room, Jetpack, MVVM, GitHub Releases) or on a free tier sufficient for the expected user volume at this stage (Gemini API, Google Cloud STT). No cloud hosting cost is incurred as the app runs locally on-device. API integration and the load algorithm are the highest-risk tasks and are scheduled earliest to allow recovery time if issues arise.
